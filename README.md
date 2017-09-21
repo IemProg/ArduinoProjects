@@ -1,6 +1,7 @@
 # ArduinoProjects
-Arduino Projects for beginners:I will try every week to implement a project using Arduino Uno.
+Arduino Projects for beginners:I am taking a course about building robots and devices by Moscow Institue of Physics in Coursera. So I will try to implement and upload every week assignement.
 
+Course: https://www.coursera.org/learn/arduino
 
 Project Lists:
 
